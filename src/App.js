@@ -12,7 +12,7 @@ function App() {
         <BannerMain
           videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
           url = {dadosIniciais.categorias[0].videos[0].url}
-          videoDescription={"Vou substituir esse texto depois"}
+          videoDescription={"Confira a evolução das startups de seguro no Brasil"}
         />
         <Carousel 
           ignoreFirstVideo

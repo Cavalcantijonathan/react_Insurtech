@@ -1,33 +1,33 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Insurtech Mercado",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Mercado Brasileiro",
+        "url": "https://www.conexaofintech.com.br/insurtech/de-adeus-a-burocracia-do-mercado-de-seguros-com-as-insurtech/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Insurtechs: Você precisa saber mais sobre o assunto!",
+          "url": "https://www.youtube.com/watch?v=hBwpzysixGs"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "INSURTECHS | O panorama do mercado de seguros",
+          "url": "https://www.youtube.com/watch?v=XySgZWFEa1k"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "O que são Insurtechs? | Moneychain",
+          "url": "https://www.youtube.com/watch?v=4RNOMNdNuVY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "As Insurtechs E O Corretor De Seguros: Como Se Beneficiar Desse Movimento | Seguros Na Prática",
+          "url": "https://www.youtube.com/watch?v=N3iUAeBOD1M"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Insurtechs, a tecnologia democratizando o setor de seguros",
+          "url": "https://www.youtube.com/watch?v=LPyFnLuRsGM"
         },
         {
           "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
